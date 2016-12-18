@@ -3,7 +3,7 @@
 The amount of confidence you have in being able to access the following things with ease and comfort:
 * Health
 * Shelter
-* Stability
+* Food source
 
 ##Health
 Health is one of the greatest contributing factors to a person's intellectual, emotional, and physical capacity to deal with problems and self improvement.
